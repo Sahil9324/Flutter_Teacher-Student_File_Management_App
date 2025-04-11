@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602881253808",
+    "project_id": "blackboard-5adb4",
+    "storage_bucket": "blackboard-5adb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602881253808:android:9a4ff9c6443c2e5fbbf675",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5KsMJwiioNUFY3CFVeEEBFLPCkxkqMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
