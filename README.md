@@ -31,26 +31,20 @@ Secure and scalable backend powered by Firebase services.
 
 # Teacher Pages
 <p float="left">
-  <img src="images/TeacherLogin.jpg" alt="Teacher Login" width="250" height="200"/>
-  <img src="images/TeacherSignup.jpg" alt="Teacher Signup" width="250" height="200"/>
-  <img src="images/TeacherPage.jpg" alt="Teacher Page" width="250" height="200"/>
+  <img src="images/TeacherLogin.jpg" alt="Teacher Login" width="250" height="400"/>
+  <img src="images/TeacherSignup.jpg" alt="Teacher Signup" width="250" height="400"/>
+  <img src="images/HomePage.jpg" alt="Home Page" width="250" height="400"/>
+  <img src="images/TeacherPage.jpg" alt="Teacher Page" width="250" height="400"/>
 </p>
 
 # Student Pages
 <p float="left">
-  <img src="images/StudentLogin.jpg" alt="Student Login" width="250" height="200"/>
-  <img src="images/StudentSignup.jpg" alt="Student Signup" width="250" height="200"/>
-  <img src="images/StudentPage.jpg" alt="Student Page" width="250" height="200"/>
+  <img src="images/StudentLogin.jpg" alt="Student Login" width="250" height="400"/>
+  <img src="images/StudentSignup.jpg" alt="Student Signup" width="250" height="400"/>
+  <img src="images/HomePage2.jpg" alt="Home Page 2" width="250" height="400"/>
+  <img src="images/StudentPage.jpg" alt="Student Page" width="250" height="400"/>
 </p>
 
-# Home Pages
-<p float="left">
-  <img src="images/HomePage.jpg" alt="Home Page" width="250" height="200"/>
-  <img src="images/HomePage2.jpg" alt="Home Page 2" width="250" height="200"/>
-</p>
 
-# Files Page
-<p float="left">
-  <img src="images/FilesPage1.jpg" alt="Files Page 1" width="250" height="200"/>
-  <img src="images/FilesPage2.jpg" alt="Files Page 2" width="250" height="200"/>
-</p>
+
+
