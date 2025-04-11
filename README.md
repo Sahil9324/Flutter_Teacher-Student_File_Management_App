@@ -26,25 +26,31 @@ Real-time file updates through Firebase.
 Secure and scalable backend powered by Firebase services.
 
 
-Main page
-![Alt text](images/Main.jpg)
+# Main Page
+<img src="images/Main.jpg" alt="Main Page" width="400" height="250"/>
 
-Teacher Page
-![Alt text](images/TeacherLogin.jpg)  ![Alt text](images/TeacherSignup.jpg)   ![Alt text](images/TeacherPage.jpg)
+# Teacher Pages
+<p float="left">
+  <img src="images/TeacherLogin.jpg" alt="Teacher Login" width="250" height="200"/>
+  <img src="images/TeacherSignup.jpg" alt="Teacher Signup" width="250" height="200"/>
+  <img src="images/TeacherPage.jpg" alt="Teacher Page" width="250" height="200"/>
+</p>
 
+# Student Pages
+<p float="left">
+  <img src="images/StudentLogin.jpg" alt="Student Login" width="250" height="200"/>
+  <img src="images/StudentSignup.jpg" alt="Student Signup" width="250" height="200"/>
+  <img src="images/StudentPage.jpg" alt="Student Page" width="250" height="200"/>
+</p>
 
+# Home Pages
+<p float="left">
+  <img src="images/HomePage.jpg" alt="Home Page" width="250" height="200"/>
+  <img src="images/HomePage2.jpg" alt="Home Page 2" width="250" height="200"/>
+</p>
 
-Student Page
-![Alt text](images/StudentLogin.jpg)   ![Alt text](images/StudentLogin.jpg)    ![Alt text](images/StudentPage.jpg) 
-
-
-
-Home Page
-![Alt text](images/HomePage.jpg)    ![Alt text](images/HomePage2.jpg)
-
-
-
-
-Files Page
-![Alt text](images/Main.jpg)     ![Alt text](images/Main.jpg)
-
+# Files Page
+<p float="left">
+  <img src="images/FilesPage1.jpg" alt="Files Page 1" width="250" height="200"/>
+  <img src="images/FilesPage2.jpg" alt="Files Page 2" width="250" height="200"/>
+</p>
