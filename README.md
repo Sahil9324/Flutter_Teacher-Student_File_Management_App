@@ -27,7 +27,7 @@ Secure and scalable backend powered by Firebase services.
 
 
 # Main Page
-<img src="images/Main.jpg" alt="Main Page" width="400" height="250"/>
+<img src="images/Main.jpg" alt="Main Page" width="250" height="400"/>
 
 # Teacher Pages
 <p float="left">
